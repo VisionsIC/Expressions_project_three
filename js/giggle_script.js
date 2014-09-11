@@ -1,6 +1,6 @@
 //Project Three - The Gigglator.
 var myGiggles = prompt("Use Youtube to search the words ** funny cat fails **. Watch the video and Enter the amount of times you giggled."); //user enters the amount of giggles they had from watching the video.
-var myMPG = prompt("Google search your vehicle manufactorer to find out your MPG. Please enter the miles per gallon."); //user enters the miles per gallon their vehicle uses.
+var myComedy = prompt("Each giggle on average lasts 5 seconds. Please enter the rough amount of comedy you watch per week in hours."); //user enters the miles per gallon their vehicle uses.
 var myGPD = myMiles / myMPG; // calculates the miles driven divided by the vehicle's miles per gallon.
 //console.log(myGPD); //prints out to the console.
 var resultGPD = "You use roughly " + myGPD + "Gallons of gas per day to drive to work.";
