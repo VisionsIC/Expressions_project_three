@@ -9,7 +9,7 @@ alert(resultGPW); // outputs the result in an alert box in the browser.
 var myYVisitors = prompt("Go back to that same YouTube video you choose. Enter the amount of people who watched the video."); //user enters the amount of visitors that watched the video on YouTube.
 var myVGT = myYVisitors * myLaff; // calculates the total of giggles per week of you and the YouTube visitors.
 // console.log(myVGT); // prints out to the console.
-var resultVGT = "You and all your fellow YouTube visitors giggle " + myVGT + " times per week! That's a lot of belly flutters! :) "; //Javascript displays the totals
+var resultVGT = "You and all your fellow YouTube visitors giggle " + myVGT + " times per week! That's a lot of belly flutters! :) "; // Javascript displays the totals.
 alert(resultGTY);
 var myGPrice = prompt("How much is the cost of a gallon of gas at your local gas station? Enter the Price Per Gallon. $"); //user enters the price of gas per gallon.
 myFloat = parseFloat(myGPrice);
