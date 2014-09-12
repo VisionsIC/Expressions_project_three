@@ -7,7 +7,7 @@ var myLaff = myGigtotal * myComedy; // calculates the total of giggles times the
 var resultGigPW = "You giggle on average " + myLaff + " per week! Can you believe it?"; // 
 alert(resultGPW); // outputs the result in an alert box in the browser.
 var myYVisitors = prompt("Go back to that same YouTube video you choose. Enter the amount of people who watched the video."); //user enters the amount of visitors that watched the video on YouTube.
-var myGTY = myDays * myGPD; // calculates the total of yealy days multiplied by the vehicle's gallons per day.
+var myVGT = myYVisitors * myLaff; // calculates the total of yealy days multiplied by the vehicle's gallons per day.
 // console.log(myGTY); // prints out to the console.
 var resultGTY = "You use roughly " + myGTY + "Gallons of gas per year to drive to work."; //Javascript displays the totals
 alert(resultGTY);
