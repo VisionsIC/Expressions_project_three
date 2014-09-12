@@ -10,4 +10,4 @@ var myYVisitors = prompt("Go back to that same YouTube video you choose. Enter t
 var myVGT = myYVisitors * myLaff; // calculates the total of giggles per week of you and the YouTube visitors.
 // console.log(myVGT); // prints out to the console.
 var resultVGT = "You and all your fellow YouTube visitors giggle " + myVGT + " times per week! That's a lot of belly flutters! :) "; // Javascript displays the totals.
-alert(resultVGT);
+alert(resultVGT); // outputs the result in an alert box in the browser.
