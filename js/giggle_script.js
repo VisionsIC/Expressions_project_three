@@ -5,7 +5,7 @@ var myComedy = prompt("Each giggle on average lasts 5 seconds. Please enter the 
 var myLaff = myGigtotal * myComedy; // calculates the total of giggles times the amount of comedy you watch per week.
 // console.log(myLaff); // prints out to the console.
 var resultGigPW = "You giggle on average " + myLaff + " times per week! Can you believe it?"; // Javascript displays the totals. 
-alert(resultGPW); // outputs the result in an alert box in the browser.
+alert(resultGigPW); // outputs the result in an alert box in the browser.
 var myYVisitors = prompt("Go back to that same YouTube video you choose. Enter the amount of people who watched the video."); //user enters the amount of visitors that watched the video on YouTube.
 var myVGT = myYVisitors * myLaff; // calculates the total of giggles per week of you and the YouTube visitors.
 // console.log(myVGT); // prints out to the console.
